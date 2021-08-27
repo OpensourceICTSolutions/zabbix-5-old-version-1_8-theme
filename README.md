@@ -2,7 +2,7 @@
 
 Hello! here is what u want to do:
 
-1. download the files 
-2. add the 2 files to your zabbix server at /styles/
-3. now go to Profile in User Settings and change your theme.
-4. Enjoy your theme!
+1. Download the two files: (filename1) and (table_head2.gif).
+2. On your Zabbix server CLI there should be a directory called /usr/share/zabbix/assets/styles/. Put the 2 files here.
+3. Now, at the Zabbix GUI navigate to Profile under User settings and change the theme.
+4. Enjoy your new theme!
