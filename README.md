@@ -1,0 +1,1 @@
+# zabbix-5-old-version-1_6-theme
