@@ -7,5 +7,5 @@ So u want to get this theme ey?
 here is what u want to do:
 
 1. download the file 
-2. add your file to your zabbix server at /styles/
+2. add the 2 files to your zabbix server at /styles/
 3. Enjoy your theme!
