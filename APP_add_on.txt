@@ -1,0 +1,4 @@
+public static function getThemes() {
+return array_merge(parent::getThemes(),
+['oldisnew' => _('Old is New')]);
+}
