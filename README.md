@@ -1,6 +1,6 @@
-# Zabbix version 5.4 theme with Zabbix version 1.6 look and feel
+# Zabbix version 5.4 theme with Zabbix version 1.8 look and feel
 
-Welcome to the Opensource ICT Solutions GitHub, where you'll find all kinds of usefull Zabbix resources. This Repository contains a theme which transforms your Zabbix 5.4 setup to a Zabbix 1.6 look and feel.
+Welcome to the Opensource ICT Solutions GitHub, where you'll find all kinds of usefull Zabbix resources. This Repository contains a theme which transforms your Zabbix 5.4 setup to a Zabbix 1.8 look and feel.
 
 ## Installation Guide
 
